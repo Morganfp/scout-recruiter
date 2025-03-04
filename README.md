@@ -2,6 +2,10 @@
 
 A dynamic recruiting outreach assistant built with React, Flask, and OpenAI Assistants. It combines an AI-driven chat interface to gather the user's recruiting goals and preferences, with a collaborative workspace where generated outreach sequences are displayed and can be refined by the user directly in the workspace or via the chat interface.
 
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6b22b391-6b60-4844-b59d-9d87a4915d6d" />
+
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/aa44a8eb-3d52-4b80-b06f-42422adfd136" />
+
 ## Key Features
 
 ### 🤖 AI Chat Assistant
