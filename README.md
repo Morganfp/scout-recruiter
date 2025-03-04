@@ -4,7 +4,7 @@ A dynamic recruiting outreach assistant built with React, Flask, and OpenAI Assi
 
 <img width="1440" alt="Image" src="https://github.com/user-attachments/assets/6b22b391-6b60-4844-b59d-9d87a4915d6d" />
 
-<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/aa44a8eb-3d52-4b80-b06f-42422adfd136" />
+<img width="1440" alt="Image" src="https://github.com/user-attachments/assets/cca647e1-7a55-40b3-bce9-5b6c30b5ecfe" />
 
 ## Key Features
 
