@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+*.egg-info/
+
+# Flask
+instance/
+*.db-journal
+
+# Jupyter Notebook
+.ipynb_checkpoints/

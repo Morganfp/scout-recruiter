@@ -1,0 +1,34 @@
+# Node modules (if you have a Node.js package manager at the root)
+node_modules/
+
+# Ignore log files and debug files
+*.log
+*.log.*
+
+# Ignore OS-generated files (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Ignore build directories (if you're building React or something at the root)
+build/
+dist/
+
+# Ignore environment variables files (for both frontend and backend)
+.env
+.env.local
+.env.*.local
+
+# Ignore package-lock.json or yarn.lock files (optional, depends on your setup)
+package-lock.json
+yarn.lock
+
+# Ignore any other temporary or IDE specific files
+.idea/
+.vscode/
+
+# Ignore SQLite database file from backend folder
+backend/user_sessions.db
+
+# Ignore any other non-essential files you don't want tracked
+*.bak
+*.swp

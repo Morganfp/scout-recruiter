@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+.container {
+  @apply flex flex-col h-full bg-white rounded-xl shadow-xl;
+}
+
+.tab {
+  @apply flex bg-[#e8e8e8] min-h-12 rounded-t-xl w-full;
+}

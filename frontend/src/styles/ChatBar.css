@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+.user {
+  @apply max-w-[80%] ml-auto px-4 py-3 bg-[#F3F3F3] rounded-3xl;
+}
+
+.ai {
+  @apply max-w-[80%];
+}

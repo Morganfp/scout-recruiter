@@ -1,0 +1,4 @@
+# Frontend specific
+dist
+dist-ssr
+*.local
